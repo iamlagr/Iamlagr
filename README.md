@@ -6,7 +6,7 @@
 
 <div align="left">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=EEDD82&width=435&lines=Maria+Vitória+Andretti+Machado)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&display&pause=1000&color=c1ddfb&width=435&lines=Lucas+Anderson+Gome+Ruiz)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=EEDD82&repeat=false&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas)
 
@@ -15,5 +15,5 @@
 <br>
 
 <div align="center">
-    <img width="100%" alt="jpg" src="atrbute_1696351296--385790115_1788588234892035_1407180167830198271_n">
+    <img width="100%" alt="jpg" src="atrbute_1696351296--385790115_1788588234892035_1407180167830198271_n.jpg">
 </div>
