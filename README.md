@@ -14,4 +14,6 @@
 
 <br>
 
-<img src="New Project.gif" width="600">
+<div align="center">
+    <img width="100%" alt="jpg" src="https://cdn.theagents.club/atrbute/atrbute_1696351296--385790115_1788588234892035_1407180167830198271_n.jpg">
+</div>
