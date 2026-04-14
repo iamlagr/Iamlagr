@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Lucas</h1>
 
-<!--
-**iamlagr/Iamlagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 💻 Aprendendo programação
+- 📚 Focado em HTML, CSS e JavaScript
+- 🎯 Objetivo: ser profissional na área de programação
+
+---
+
+### 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### 📫 Contato
+- Email: lucasandersong2021@gmail.com
+  
