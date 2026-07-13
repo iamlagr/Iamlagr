@@ -1,98 +1,21 @@
 
-# 👨‍💻 Lucas Anderson
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=1d4057"/>
+</div>
+</div>
 
-**`Estudante de DEV`**
+<div align="left">
 
-Me chamo Lucas Anderson Gomes Ruiz, tenho 17 anos e sou natural do Rio de Janeiro. Estou cursando o curso técncio de desenvolvimento de sistemas no Senai de Palhoça. 
-sou um grande apreciador da tecnologia e programação, mas principalmente na área do frontend.
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Iamlagr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Iamlagr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&display&pause=1000&color=c1ddfb&width=435&lines=Lucas+Anderson+Gome+Ruiz)
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=EEDD82&repeat=false&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas)
 
-### 🤖 Linguagens e Tecnologias
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<br>
 
-<br/>
-<br/>
+<div align="center">
+    <img width="100%" alt="jpg" src="https://cdn.theagents.club/atrbute/atrbute_1696351296--385790115_1788588234892035_1407180167830198271_n.jpg">
+</div>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Iamlagr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamlagr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
