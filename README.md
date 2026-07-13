@@ -12,7 +12,8 @@
   <b>`Iamlagr`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Lucas Anderson Gomes Ruiz</b>
+      Hi there! I'm <b>Lucas Anderson Gomes Ruiz
+      </b>
   </samp>
 </div>
 
