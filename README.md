@@ -4,7 +4,6 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://living-crimson-vonmeg18.edgeone.dev/file_0000000076ec720e96fc689834928f2c.png" />
 </div>
 
 <div align="center">
