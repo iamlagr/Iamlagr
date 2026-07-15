@@ -38,8 +38,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img width="40" src="https://concerned-green-otwcmeaq.edgeone.dev/images.png">
-  <img width="40" src="https://classic-scarlet-zimnj29a.edgeone.dev/capcut-logo-on-transparent-white-background-free-vector.png">
   
   
 </div>
